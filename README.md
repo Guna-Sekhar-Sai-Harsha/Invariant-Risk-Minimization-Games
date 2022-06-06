@@ -1,4 +1,4 @@
-"# Invariant-Risk-Minimization-Games" 
+# Invariant-Risk-Minimization-Games
 
 IRM_games.ipynb: Jupyter notebook serves as the tutorial. In this tutorial, we compare the IRM games methods, IRM from Arjovsky et.al. and standard ERM. It mainly consists of 2 cells:
 
